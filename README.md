@@ -3,4 +3,6 @@
 - 👀 I’m interested in coding<br>
 - 🌱 I’m coding with Javascript<br>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A1FO3AB)
+
 
