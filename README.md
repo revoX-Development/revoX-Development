@@ -26,4 +26,6 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+[![](https://visitcount.itsvg.in/api?id=revoX&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 
